@@ -1,0 +1,31 @@
+[
+{
+		"name": "Ptolemaic Kingdom of Egypt ",
+		"adjective": ["Hellenistic Egypt"],
+         "startBias": ["Rivers", "Coast"],
+		"preferredVictoryType": "Domination",
+         "leaderName": "Ptolemy I Soter",
+		"declaringWar": "The Armies of Greece await in open arms!",
+		"attacked": "May God have mercy on you for I will not.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [118, 118, 118],
+		"innerColor": [219,222,51],
+		"cities": ["Alexandria", "Thebes", "Memphis", "Cairo", "Ra-Kadet", "Siwa", "Rhodes", "Jerusalem", "Heracleon", "Giza", "Heliopolis"],
+		"startIntroPart1": "The Ptolemaic Kingdom of Egypt was perhaps the greatest and longest lasting of all Egyptian dynasties and was founded as a breakaway state of the collapsed Macedonian Empire.",
+		
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+		
+		"neutralHello": "Greetings. I am Ptolemy, the Greek Pharaoh of Egypt General of the Macedonian Phalanxes.",
+		"hateHello": "What do you want, vassal state?",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [125,125,125],
+		"innerColor": [218,221,41], 
+		"uniqueName": "Egypt",
+		"uniques": ["[+45]% Gold when at War ", "Bonus Culture from all specialty districts", "[+1 Food, +3 Production] from every [Farm]",]
+	},
+]
